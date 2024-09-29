@@ -1,0 +1,19 @@
+.text-section {
+    text-align: center;
+    color: white;
+    font-family: 'Arial', sans-serif;
+}
+
+.container-logos{
+    height: 100%; 
+     margin: 2%; display: flex; align-items: center; justify-content: space-around;    
+    height: 100%; 
+    object-fit: contain;
+}
+
+.border{
+    border: 5px solid white; 
+    padding: 10%; 
+    border-radius: 1%;
+    margin: 1.5%;
+}
